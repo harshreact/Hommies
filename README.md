@@ -1,8 +1,13 @@
-# React + Vite
+Hommies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Real-Estate Application, it helps to find new Properties or on sell properties in your desired area.
+This Application is build with ReactJS and TailwindCSS.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Steps to run project:
+step-1:git clone 
+step-2:npm install
+step-3:npm install @headlessui/react
+step-4:npm install react-icons --save
+step-5:npm install tailwindcss @tailwindcss/vite
+step-6:npm i -D react-router-dom
+step-7:num run dev
